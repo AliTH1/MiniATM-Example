@@ -1,0 +1,16 @@
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\bin\Debug\MiniATM.exe.config
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\bin\Debug\MiniATM.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\bin\Debug\MiniATM.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\obj\Debug\MiniATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\obj\Debug\MiniATM.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Basic Tools\MiniATM\MiniATM\MiniATM\obj\Debug\MiniATM.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\bin\Debug\MiniATM.exe.config
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\bin\Debug\MiniATM.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\bin\Debug\MiniATM.pdb
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\obj\Debug\MiniATM.csproj.SuggestedBindingRedirects.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\obj\Debug\MiniATM.exe
+C:\Users\alita\Desktop\Projects\Practice\C#\Projects\MiniATM\obj\Debug\MiniATM.pdb
